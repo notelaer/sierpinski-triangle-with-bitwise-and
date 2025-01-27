@@ -1,6 +1,6 @@
-Learning about the bitwise & operator by using it to print a Sierpinski triangle in the console.
+### Learning about the bitwise & operator by using it to print a Sierpinski triangle in the console.
 
-Original code taken from [Java program to print a Sierpinski triangle](https://www.geeksforgeeks.org/sierpinski-triangle/) where the Java code was contributed by Sahil_Bansall.
+Original code taken from [Java program to print a Sierpinski triangle](https://www.geeksforgeeks.org/sierpinski-triangle/) where the Java code was contributed by [Sahil Bansall](https://github.com/sahilbansal17).
 
 Adapted by Bart Notelaers to learn about the [bitwise operator &](https://www.baeldung.com/java-bitwise-operators), by printing values of x and y instead of a single '*'
 
